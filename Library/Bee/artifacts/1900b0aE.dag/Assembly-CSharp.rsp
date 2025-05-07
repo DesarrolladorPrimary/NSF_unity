@@ -401,6 +401,7 @@
 "Assets/scripts/camara.cs"
 "Assets/scripts/controlador.cs"
 "Assets/scripts/eventos.cs"
+"Assets/scripts/time.cs"
 -langversion:9.0
 /deterministic
 /optimize+
