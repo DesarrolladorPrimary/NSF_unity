@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638812032983245176
+      ticks: 638828566763724549
     m_Hash: 2161879769
   m_LockFileStatus:
     m_FilePath: D:/adso/2994281/Unity/NSF_unity/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638812032983245176
+      ticks: 638828566763724549
     m_Hash: 1928522954
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -120,8 +120,12 @@ m_ResolvedPackages:
     - 2.5.2
     - 2.6.0
     - 2.7.1
+    - 2.8.1
+    - 2.8.2
     compatible:
     - 2.7.1
+    - 2.8.1
+    - 2.8.2
     recommended: 2.7.1
     deprecated: []
   dependencies: []
